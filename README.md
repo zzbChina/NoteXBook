@@ -8,4 +8,8 @@
 
 
 <img src="https://github.com/zzbChina/NoteXBook/blob/master/1.jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/2.jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/3.jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/4.jpg" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/5.jpg" style="zoom:25%;" />
 
