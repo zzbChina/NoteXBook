@@ -6,7 +6,7 @@
 
 ### 成品展示
 
-<img src=".\show\show (1).jpg" style="zoom:25%;" />
+<img src="./show/show (1).jpg" style="zoom:25%;" />
 
 
 
