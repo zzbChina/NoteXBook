@@ -7,7 +7,7 @@
 ### 成品展示
 
 
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/show/show%20(1).jpg?raw=true" style="zoom:25%;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/show/show (1).jpg?raw=true" style="zoom:25%;" />
 
 
 
