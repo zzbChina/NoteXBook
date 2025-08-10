@@ -7,9 +7,5 @@
 ### 成品展示
 
 
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/1.jpg" style="width:200px;height:auto;" />
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/2.jpg" style="width:200px;height:auto;" />
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/3.jpg" style="width:200px;height:auto;" />
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/4.jpg" style="width:200px;height:auto;" />
-<img src="https://github.com/zzbChina/NoteXBook/blob/master/5.jpg" style="width:200px;height:auto;" />
+<img src="https://github.com/zzbChina/NoteXBook/blob/master/1.jpg" style="width:200px;height:auto;" />  <img src="https://github.com/zzbChina/NoteXBook/blob/master/2.jpg" style="width:200px;height:auto;" />  <img src="https://github.com/zzbChina/NoteXBook/blob/master/3.jpg" style="width:200px;height:auto;" />  <img src="https://github.com/zzbChina/NoteXBook/blob/master/4.jpg" style="width:200px;height:auto;" />  <img src="https://github.com/zzbChina/NoteXBook/blob/master/5.jpg" style="width:200px;height:auto;" />
 
